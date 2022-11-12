@@ -14,8 +14,8 @@ class Dogs {
          <h3>${name}, ${age}</h3>
          <p>${bio}</p>
       </div>
-      <img src="/images/badge-like.png" class="like ${like}">
-      <img src="/images/badge-nope.png" class="nope ${nope}">
+      <img src="images/badge-like.png" class="like ${like}">
+      <img src="images/badge-nope.png" class="nope ${nope}">
       </main> `
    }
 
